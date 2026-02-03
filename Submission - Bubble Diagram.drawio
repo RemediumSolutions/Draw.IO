@@ -1,0 +1,145 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="29.3.6">
+  <diagram name="Page-1" id="3Gf_VfVmpQdSO9cUXuIs">
+    <mxGraphModel dx="1418" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-BZHfHqcd0a2bTdTiNVN-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Neutral Room" vertex="1">
+          <mxGeometry height="80" width="120" x="60" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-BZHfHqcd0a2bTdTiNVN-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" value="Combat Room" vertex="1">
+          <mxGeometry height="80" width="120" x="60" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-BZHfHqcd0a2bTdTiNVN-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" value="Puzzle Room" vertex="1">
+          <mxGeometry height="80" width="120" x="60" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="-BZHfHqcd0a2bTdTiNVN-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" value="Safe Room" vertex="1">
+          <mxGeometry height="80" width="120" x="60" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="-BZHfHqcd0a2bTdTiNVN-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" value="Boss Room" vertex="1">
+          <mxGeometry height="80" width="120" x="60" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="-BZHfHqcd0a2bTdTiNVN-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" value="Treasure Room" vertex="1">
+          <mxGeometry height="80" width="120" x="60" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="-BZHfHqcd0a2bTdTiNVN-15" edge="1" parent="1" source="-BZHfHqcd0a2bTdTiNVN-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="-BZHfHqcd0a2bTdTiNVN-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-BZHfHqcd0a2bTdTiNVN-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Forgotten Entrance&lt;div&gt;(Entry)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="230" as="geometry" />
+        </mxCell>
+        <mxCell id="-BZHfHqcd0a2bTdTiNVN-17" edge="1" parent="1" source="-BZHfHqcd0a2bTdTiNVN-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="-BZHfHqcd0a2bTdTiNVN-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-BZHfHqcd0a2bTdTiNVN-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="The crossroad hall" vertex="1">
+          <mxGeometry height="80" width="120" x="480" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-BZHfHqcd0a2bTdTiNVN-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" value="Bloodbound Arena" vertex="1">
+          <mxGeometry height="80" width="120" x="480" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="-BZHfHqcd0a2bTdTiNVN-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" value="Forgotten Riches" vertex="1">
+          <mxGeometry height="80" width="120" x="670" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="-BZHfHqcd0a2bTdTiNVN-19" edge="1" parent="1" source="-BZHfHqcd0a2bTdTiNVN-10" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="-BZHfHqcd0a2bTdTiNVN-11" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="590" y="340" as="sourcePoint" />
+            <mxPoint x="640" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-BZHfHqcd0a2bTdTiNVN-20" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" value="The Rune Chamber" vertex="1">
+          <mxGeometry height="80" width="120" x="480" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="-BZHfHqcd0a2bTdTiNVN-22" edge="1" parent="1" source="-BZHfHqcd0a2bTdTiNVN-10" style="endArrow=classic;html=1;rounded=0;exitX=0.558;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="-BZHfHqcd0a2bTdTiNVN-20" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="600" y="340" as="sourcePoint" />
+            <mxPoint x="640" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-BZHfHqcd0a2bTdTiNVN-23" edge="1" parent="1" source="-BZHfHqcd0a2bTdTiNVN-20" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0.063;entryDx=0;entryDy=0;entryPerimeter=0;" target="-BZHfHqcd0a2bTdTiNVN-24" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="590" y="340" as="sourcePoint" />
+            <mxPoint x="500" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-BZHfHqcd0a2bTdTiNVN-24" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" value="Sanctum Sigil" vertex="1">
+          <mxGeometry height="80" width="120" x="480" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="-BZHfHqcd0a2bTdTiNVN-25" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" value="Resting Shrine" vertex="1">
+          <mxGeometry height="80" width="120" x="680" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="-BZHfHqcd0a2bTdTiNVN-26" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" value="The sealed Gate" vertex="1">
+          <mxGeometry height="80" width="120" x="480" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="-BZHfHqcd0a2bTdTiNVN-27" edge="1" parent="1" source="-BZHfHqcd0a2bTdTiNVN-24" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="-BZHfHqcd0a2bTdTiNVN-26" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="590" y="340" as="sourcePoint" />
+            <mxPoint x="640" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-BZHfHqcd0a2bTdTiNVN-28" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Hall of Echoes" vertex="1">
+          <mxGeometry height="80" width="120" x="480" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="-BZHfHqcd0a2bTdTiNVN-29" edge="1" parent="1" source="-BZHfHqcd0a2bTdTiNVN-26" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="-BZHfHqcd0a2bTdTiNVN-28" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="550" y="470" as="sourcePoint" />
+            <mxPoint x="600" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-BZHfHqcd0a2bTdTiNVN-30" edge="1" parent="1" source="-BZHfHqcd0a2bTdTiNVN-28" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="-BZHfHqcd0a2bTdTiNVN-25" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="410" y="430" as="sourcePoint" />
+            <mxPoint x="500" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-BZHfHqcd0a2bTdTiNVN-31" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Unlock Shortcut" vertex="1">
+          <mxGeometry height="80" width="120" x="290" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="-BZHfHqcd0a2bTdTiNVN-35" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" value="Chamber of two guardians" vertex="1">
+          <mxGeometry height="100" width="150" x="465" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="-BZHfHqcd0a2bTdTiNVN-36" edge="1" parent="1" source="-BZHfHqcd0a2bTdTiNVN-31" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="-BZHfHqcd0a2bTdTiNVN-9" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="70" />
+            </Array>
+            <mxPoint x="590" y="440" as="sourcePoint" />
+            <mxPoint x="640" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-BZHfHqcd0a2bTdTiNVN-37" edge="1" parent="1" source="-BZHfHqcd0a2bTdTiNVN-28" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="-BZHfHqcd0a2bTdTiNVN-31" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="530" />
+            </Array>
+            <mxPoint x="590" y="440" as="sourcePoint" />
+            <mxPoint x="640" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-BZHfHqcd0a2bTdTiNVN-38" edge="1" parent="1" source="-BZHfHqcd0a2bTdTiNVN-28" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="-BZHfHqcd0a2bTdTiNVN-35" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="540" y="580" as="sourcePoint" />
+            <mxPoint x="540" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-BZHfHqcd0a2bTdTiNVN-39" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" value="The Fallen Kings" vertex="1">
+          <mxGeometry height="130" width="220" x="430" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="-BZHfHqcd0a2bTdTiNVN-41" edge="1" parent="1" source="-BZHfHqcd0a2bTdTiNVN-35" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="-BZHfHqcd0a2bTdTiNVN-39" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="590" y="640" as="sourcePoint" />
+            <mxPoint x="640" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-BZHfHqcd0a2bTdTiNVN-42" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Exit" vertex="1">
+          <mxGeometry height="80" width="120" x="480" y="940" as="geometry" />
+        </mxCell>
+        <mxCell id="-BZHfHqcd0a2bTdTiNVN-43" edge="1" parent="1" source="-BZHfHqcd0a2bTdTiNVN-39" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="-BZHfHqcd0a2bTdTiNVN-42" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="590" y="940" as="sourcePoint" />
+            <mxPoint x="640" y="890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
